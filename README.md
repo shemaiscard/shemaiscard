@@ -6,7 +6,7 @@
   - 📧 Email: [shemagiscard2020@gmail.com](mailto:shemagiscard2020@gmail.com)  
   - 📞 Phone: +82-010-3051-1527  
   - 🔗 LinkedIn: (https://www.linkedin.com/in/giscard1)  
-  - 🌐 Portfolio: (https://giscards.netlify.app)
+  - 🌐 Portfolio: (https://shemaiscard.github.io/My-Portifolio)
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I enjoy **photography, gaming, and traveling** to stay creative and inspired!  
 
@@ -66,7 +66,7 @@ Here are some of the projects I’ve worked on:
 
 ### 📂 **Explore My Work**  
 Check out my portfolio and CV for more details:  
-- [Portfolio](https://giscards.netlify.app/)  
-- [Download CV](https://giscards.netlify.app/cv.pdf)
+- [Portfolio](https://shemaiscard.github.io/My-Portifolio)  
+- [Download CV](https://shemaiscard.github.io/My-Portifolio/cv.pdf)
 
 ---
