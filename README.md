@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning **advanced cybersecurity protocols, blockchain technology, and cloud computing**.  
 - 💞️ I’m looking to collaborate on **innovative projects in AI, web development, and cybersecurity**. Let’s create something impactful!  
 - 📫 How to reach me:  
-  - 📧 Email: [shemagiscard2020@gmail.com](mailto:shemagiscard2020@gmail.com)  
-  - 📞 Phone: +82-010-3051-1527  
+  - 📧 Email: [shemagiscard2020@gmail.com](mailto:shemagiscard2020@gmail.com)   
   - 🔗 LinkedIn: (https://www.linkedin.com/in/giscard1)  
   - 🌐 Portfolio: (https://giscard.me/)
 - 😄 Pronouns: **He/Him**  
@@ -60,13 +59,6 @@ Here are some of the projects I’ve worked on:
 ### 📚 **Education**  
 - **Bachelor of Science in Smart Computing(Computer Engineering)**  
   Kyungdong University, South Korea (2022–Present)  
-  Focus: Game Development, Cybersecurity, Networking, AI, and Cloud Computing.  
-
----
-
-### 📂 **Explore My Work**  
-Check out my portfolio and CV for more details:  
-- [Portfolio](https://giscard.me/)  
-- [Download CV](https://giscard.me/cv.pdf)
+  Focus: Game Development,Web Development, Cybersecurity, Networking, AI,Data Science, and Cloud Computing.  
 
 ---
