@@ -3,21 +3,24 @@
 I’m a **Full-Stack Developer & Smart Computing Engineer** passionate about building secure, interactive, and data-driven applications. I thrive at the intersection of software development, AI, and cybersecurity.
 
 ###  About Me
--  **Education:** Final semester BSc in Smart Computing (Computer Engineering) at Kyungdong University Global . I recently submitted my senior thesis!
+I am a versatile software developer and creative technologist dedicated to building high-impact digital solutions. My expertise spans multiple cutting-edge domains, including engineering resilient AI systems, developing secure blockchain architectures, and crafting immersive web experiences. From cybersecurity auditing and encrypted communication suites to interactive game development, I prioritize security, performance, and modern aesthetics to solve complex challenges with elegant code.
+
+-  **Education:** Final semester BSc in Smart Computing (Computer Engineering) at Kyungdong University Global. I recently submitted my senior thesis!
 -  **Environment:** I do most of my development on Fedora Linux. 
--  **Currently Learning:** Advanced cybersecurity protocols, blockchain tech, and cloud computing.
+-  **Currently Learning:** Cloud Computing, Microservices, Blockchain (BIP39, ECDSA), and Advanced Security Systems.
 -  **Looking to Collaborate On:** Innovative projects in AI, web development, and cybersecurity.
--  **Fun Fact:** When I'm not coding,I enjoy **photography, gaming,movies and traveling** to stay creative and inspired!  
+-  **Fun Fact:** When I'm not coding, I enjoy **photography, strategy gaming, movies, and traveling** to stay creative and inspired!  
   
 ---
 
 ###  Tech Stack & Skills
 
-- **Languages:** Python, Java, C++, C#, JavaScript, PHP
-- **Web & App Dev:** React, HTML/CSS, Flask, Streamlit, Tkinter, PyQt6
-- **AI & Data:** Machine Learning, DeepFace, OpenCV, Pandas
-- **Cybersecurity & Infra:** Ethical Hacking, Cryptography (AES, RSA), Network Design
-- **Graphics & Hardware:** Blender, OpenGL, Arduino, IoT Systems
+- **Languages:** Python (Expert), C++, Java, JavaScript, PHP
+- **Web & App Dev (Streamlit & Full-Stack):** Streamlit (Advanced dashboards), React, HTML5/CSS3 (Glassmorphism), Flask, Node.js, Apache, Netlify
+- **AI & LLM Engineering:** Groq (Gemma, Llama, Mistral), DeepFace, OpenCV, Multimodal AI, Prompt Engineering, Web Speech API
+- **Cybersecurity & Networking:** Network Recon (Nmap), Cryptography (AES, RSA, Twofish, Argon2), SSH Automation, Linux Admin
+- **Blockchain & Data:** BIP39 mnemonics, ECDSA, Proof-of-Work, SQLite3, Pandas, NumPy
+- **Graphics, 3D & IoT:** Blender (Physics & Animation), OpenGL, CSS 3D, SVG, Arduino, ESP32
 
 ---
 
@@ -68,5 +71,8 @@ I’m a **Full-Stack Developer & Smart Computing Engineer** passionate about bui
           </a>
           <a href="https://giscard.me/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+          </a>
+          <a href="https://streamlit.io/" target="_blank">
+            <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
           </a>
         </p>
