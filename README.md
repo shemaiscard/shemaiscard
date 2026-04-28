@@ -24,22 +24,34 @@ I’m a **Full-Stack Developer & Smart Computing Engineer** passionate about bui
 ###  Featured Projects
 
 ####  AI & Image Processing
-* **Face Analysis Pro:** A real-time Streamlit & DeepFace application for extracting demographic like (age ,gender and race) and emotional insights.
-* **LogoScope:** A Streamlit-powered computer vision suite for object detection and image enhancement.
+* **[Giscard AI Chatbot](https://giscard-ai.netlify.app/):** A resilient multimodal AI chatbot with voice I/O, document generation, web search, and persistent chat memory.
+* **Face Analysis Pro:** A real-time facial analysis app that detects age, gender, emotions with privacy-focused local processing.
+* **[LogoScope](https://logoscope.streamlit.app/):** A Streamlit-powered computer vision suite for object detection, filtering, and feature matching with histograms.
 
 ####  Cybersecurity & Networking
-* **Cipher-Shield:** An advanced encryption suite integrating AES, RSA, Blowfish, and ChaCha20.
-* **Enterprise Network Design:** A scalable multi-branch network infrastructure using Class C IP addressing.
+* **[Cipher Shield Suite](https://ciphershield.streamlit.app/):** Secure encryption suite supporting multiple algorithms, file encryption, and CAPTCHA verification.
+* **[NMAP Scanning Tool](https://nmaptest.streamlit.app/):** GUI for network reconnaissance and mock SSH brute-force auditing with a hacker-themed UI.
+* **[Digital Wallet Sim](https://digital-wallet.streamlit.app/):** Simulated digital wallet with BIP39 seed phrases, ECDSA key derivation, Proof-of-Work mining, and persistent ledger storage.
 
-####  Desktop & Web Applications
-* **Flight Management System:** A Python/SQLite application for streamlined flight bookings and management.
-* **Text Autocomplete System:** A PyQt6 app utilizing a Trie data structure for low-latency text suggestions.
-* **Survey App & QR Generator:** A data collection tool built with Tkinter and SQLite.
+####  Web Utilities & Tools (Streamlit & React)
+* **[Ze Video Downloader](https://ze-video-downloader.streamlit.app/):** Full-stack media extraction tool for YouTube, TikTok & IG with anti-bot evasion and format control.
+* **[ZePdf](https://zepdf.netlify.app/):** Professional PDF utility suite for merging, splitting, and compressing documents directly in the browser.
+* **[Ze Base Converter](https://ze-base.streamlit.app/):** Universal number base converter (Base 2-36) with floating-point precision and educational quizzes.
+* **[Ze Matrix](https://ze-matrix.streamlit.app/):** Advanced linear algebra tool with equation solver, decompositions (SVD/QR), and educational mode.
+* **[Quiz Assistant](https://zequiz.streamlit.app/):** Quiz management system with Admin/Editor roles, bulk upload, and analytics export capabilities.
 
-####  Graphics & IoT
+####  Games & Interactive Experiences
+* **[Memory Match Challenge](https://zememory.netlify.app/):** Cognitive recall game featuring 3D card flips, dynamic difficulty, and local leaderboard persistence.
+* **[Digital Detective: Scavenger Hunt](https://scavengerterminal.netlify.app/):** Terminal-based digital forensics game with CRT effects. Use Unix commands to uncover hidden evidence.
+* **[Amakarita](https://amakarita.netlify.app/):** Strategic card game (Player vs Computer) with custom AI decision tree and responsive animations.
+
+####  Graphics, Desktop & IoT
+* **Flight Management System:** A comprehensive Python/SQLite system featuring a modern web dashboard and original GUI.
 * **3D Village & Ghost Animation:** Dynamic OpenGL rendering and Blender cloth-physics animations.
+* **Text Autocomplete System:** A PyQt6 app providing real-time text suggestions using a trie data structure.
 * **LM35 Hardware Monitor:** An Arduino-based IoT system for real-time temperature tracking.
-* ** Other games are found on my portifolio website** 
+
+*For more details and full list of projects, please visit my [Portfolio Website](https://giscard.me/projects.html).*
 ---
 
 ###  Connect With Me
