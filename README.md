@@ -61,6 +61,7 @@ I am a versatile software developer and creative technologist dedicated to build
  -  Email: [shemagiscard2020@gmail.com](mailto:shemagiscard2020@gmail.com)   
   - LinkedIn: (https://www.linkedin.com/in/giscard1)  
   -  Portfolio: (https://giscard.me/)
+  -  Streamlit Profile: (https://share.streamlit.io/user/shemaiscard)
     
         <p align="left">
           <a href="mailto:shemagiscard2020@gmail.com" target="_blank">
@@ -72,7 +73,7 @@ I am a versatile software developer and creative technologist dedicated to build
           <a href="https://giscard.me/" target="_blank">
             <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
           </a>
-          <a href="https://streamlit.io/" target="_blank">
+          <a href="https://share.streamlit.io/user/shemaiscard" target="_blank">
             <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
           </a>
         </p>
