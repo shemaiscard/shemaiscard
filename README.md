@@ -6,7 +6,7 @@
 
 ### About Me
 
-- **Education:** Final semester BSc in Smart Computing (Computer Engineering) at Kyungdong University Global. Senior thesis submitted.
+- **Education:** Computer Science Master's student (MSCS) at Kennesaw State University. Currently serving as a Graduate Research Assistant at the Learning and Sensing Research (LaSER) Lab
 - **Environment:** Fedora Linux for daily development.
 - **Currently Learning:** Advanced cybersecurity protocols, blockchain tech, and cloud computing.
 - **Looking to Collaborate On:** Innovative projects in AI, web development, and cybersecurity.
