@@ -20,27 +20,24 @@ Most of my research so far is in affective computing: multimodal emotion recogni
 <p>
   <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" width="32" height="32" />&nbsp;
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML" width="32" height="32" />&nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" width="32" height="32" />&nbsp;
   <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="32" height="32" />&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" width="32" height="32" />&nbsp;
   <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" width="32" height="32" />&nbsp;
   <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" title="Netlify" width="32" height="32" />&nbsp;
   <img src="https://cdn.simpleicons.org/arduino" alt="Arduino" title="Arduino" width="32" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" title="Rust" width="32" height="32" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tauri" alt="Tauri" title="Tauri" width="32" height="32" />&nbsp;
 </p>
 
-| Area | Tools |
+| Category | Technologies |
 |---|---|
-| Languages | Python, TypeScript, JavaScript, C++, Java, Kotlin, C#, PHP, SQL |
-| Learning now | Rust, Tauri |
-| Machine learning and vision | PyTorch, TensorFlow and Keras, scikit-learn, XGBoost, OpenCV, DeepFace, Hugging Face Transformers |
-| Evaluation | SHAP, Grad-CAM, ROC-AUC and PR curves, macro-F1, latency benchmarks |
-| LLM apps | Gemini API, Groq, OpenRouter, Cloudflare Workers AI, Google ML Kit OCR |
-| Web and cloud | React, Vite, Tailwind CSS, Flask, Streamlit, Supabase, Firebase, Netlify Functions |
-| Security | AES-GCM, RSA-OAEP, ECDSA (secp256k1), Argon2, Nmap, digital forensics |
-| IoT and graphics | ESP32, Arduino, MQTT, Web Bluetooth, OpenGL, Blender |
-| Tools | Git, GitHub Actions, Linux, LaTeX |
+| Languages | Python, Java, Kotlin, C++, C#, JavaScript, TypeScript, PHP, SQL |
+| Web and App Dev | React, HTML/CSS, Tailwind CSS, Flask, Streamlit, Netlify, Supabase, Firebase, Tkinter, PyQt6, Android |
+| AI and Data | Machine Learning, PyTorch, TensorFlow, DeepFace, OpenCV, Pandas, Local LLMs (Ollama), Explainable ML (SHAP, Grad-CAM) |
+| Cybersecurity | Ethical Hacking, Cryptography (AES, RSA, ECDSA, Argon2), Network Security (Nmap), Digital Forensics, Blockchain |
+| Graphics and Hardware | Blender, OpenGL/WebGL, Arduino, ESP32, IoT Systems (MQTT, Web Bluetooth) |
+| Tools | Git, GitHub Actions, Linux, LaTeX, Agentic IDEs |
+| Currently Learning | Rust, Tauri |
 
 ---
 
