@@ -18,7 +18,16 @@ Most of my research so far is in affective computing: multimodal emotion recogni
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,kotlin,rust,tauri,react,vite,tailwind,flask,pytorch,tensorflow,opencv,supabase,firebase,netlify,arduino,blender,linux,git,githubactions,latex&perline=12" alt="Python, TypeScript, JavaScript, C++, Java, Kotlin, Rust, Tauri, React, Vite, Tailwind CSS, Flask, PyTorch, TensorFlow, OpenCV, Supabase, Firebase, Netlify, Arduino, Blender, Linux, Git, GitHub Actions, LaTeX" />
+  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" title="Netlify" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino" alt="Arduino" title="Arduino" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/rust/DEA584" alt="Rust" title="Rust" width="32" height="32" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tauri" alt="Tauri" title="Tauri" width="32" height="32" />&nbsp;
 </p>
 
 | Area | Tools |
@@ -93,7 +102,7 @@ All 26 projects are at [giscard.me/projects.html](https://giscard.me/projects.ht
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/giscard1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" />
   </a>
   <a href="https://www.researchgate.net/profile/Giscard-Shema-Nkindi" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
