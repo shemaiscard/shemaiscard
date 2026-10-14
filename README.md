@@ -1,79 +1,107 @@
 # Hi, I'm Shema Nkindi Giscard
 
-**Full-Stack Developer and Smart Computing Engineer** passionate about building secure, interactive, and data-driven applications. I work at the intersection of software development, AI, and cybersecurity.
+I'm an M.S. Computer Science student at Kennesaw State University and a Graduate Research Assistant in the Learning and Sensing Research (LaSER) Lab, where I work on electronic-nose (machine olfaction) research. Before Kennesaw State I studied Smart Computing at Kyungdong University in South Korea.
+
+Most of my research so far is in affective computing: multimodal emotion recognition and conversational agents that respond to how a person feels. I also build free tools for students and everyday users, often for jobs people usually pay for, like PDF editing, image analysis and an AI assistant. My Streamlit apps have passed 5,000 views.
+
+### Right now
+
+- **Research:** electronic-nose sensing, olfactory datasets and contrastive learning
+- **Learning:** Rust and Tauri, to build small desktop apps with a web front end
+- **Building:** [Giscard AI](https://giscard-ai.netlify.app/), my multimodal assistant
+- **Setup:** Fedora Linux
+- **Open to:** collaboration on sensing, affective computing and tools for students
+- **Away from the keyboard:** photography, travel and strategy games
 
 ---
 
-### About Me
+### Tech stack
 
-- **Education:** Computer Science Master's student (MSCS) at Kennesaw State University. Currently serving as a Graduate Research Assistant at the Learning and Sensing Research (LaSER) Lab
-- **Environment:** Fedora Linux for daily development.
-- **Currently Learning:** Advanced cybersecurity protocols, blockchain tech, and cloud computing.
-- **Looking to Collaborate On:** Innovative projects in AI, web development, and cybersecurity.
-- **Fun Fact:** When I'm not coding, I enjoy photography, gaming, movies, and traveling.
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java,kotlin,rust,tauri,react,vite,tailwind,flask,pytorch,tensorflow,opencv,supabase,firebase,netlify,arduino,blender,linux,git,githubactions,latex&perline=12" alt="Python, TypeScript, JavaScript, C++, Java, Kotlin, Rust, Tauri, React, Vite, Tailwind CSS, Flask, PyTorch, TensorFlow, OpenCV, Supabase, Firebase, Netlify, Arduino, Blender, Linux, Git, GitHub Actions, LaTeX" />
+</p>
 
----
-
-### Tech Stack
-
-| Category | Technologies |
+| Area | Tools |
 |---|---|
-| Languages | Python, Java, Kotlin, C++, C#, JavaScript, PHP |
-| Web and App Dev | React, HTML/CSS, Flask, Streamlit, Tkinter, PyQt6 |
-| AI and Data | Machine Learning, DeepFace, OpenCV, Pandas, Google Gemini |
-| Cybersecurity | Ethical Hacking, Cryptography (AES, RSA), Network Security |
-| Graphics and Hardware | Blender, OpenGL/WebGL, Arduino, IoT Systems |
+| Languages | Python, TypeScript, JavaScript, C++, Java, Kotlin, C#, PHP, SQL |
+| Learning now | Rust, Tauri |
+| Machine learning and vision | PyTorch, TensorFlow and Keras, scikit-learn, XGBoost, OpenCV, DeepFace, Hugging Face Transformers |
+| Evaluation | SHAP, Grad-CAM, ROC-AUC and PR curves, macro-F1, latency benchmarks |
+| LLM apps | Gemini API, Groq, OpenRouter, Cloudflare Workers AI, Google ML Kit OCR |
+| Web and cloud | React, Vite, Tailwind CSS, Flask, Streamlit, Supabase, Firebase, Netlify Functions |
+| Security | AES-GCM, RSA-OAEP, ECDSA (secp256k1), Argon2, Nmap, digital forensics |
+| IoT and graphics | ESP32, Arduino, MQTT, Web Bluetooth, OpenGL, Blender |
+| Tools | Git, GitHub Actions, Linux, LaTeX |
 
 ---
 
-### Featured Projects
+### Research
 
-#### AI and Image Processing
-- **[Giscard AI Chatbot](https://giscard-ai.netlify.app/):** Multimodal AI chatbot with voice I/O, document analysis, web search, and persistent chat memory. Built with React, Vite, Gemini, and Mistral AI.
-- **[LogoScope](https://logoscope.streamlit.app/):** Computer vision suite for object detection, background removal, filtering, and feature matching.
-- **Face Analysis Pro:** Real-time facial analysis (age, gender, emotion, race) with fully local processing via DeepFace.
+**Interests:** machine olfaction and electronic-nose sensing, multimodal affective computing, contrastive and cross-modal representation learning, explainable machine learning, applied security, IoT.
 
-#### Cybersecurity and Forensics
-- **[Securina](https://securina.netlify.app/):** AI-powered forensic system for investigating ransomware incidents with interactive evidence management and timeline reconstruction.
-- **[Cipher Shield Suite](https://ciphershield.streamlit.app/):** Encryption suite supporting AES, RSA, ChaCha20, and more. Includes file encryption, Argon2 password hashing, and CAPTCHA verification.
-- **[NMAP Scanning Tool](https://nmaptest.streamlit.app/):** Educational GUI for Nmap network reconnaissance and mock SSH credential auditing.
-- **[Digital Wallet Sim](https://digital-wallet.streamlit.app/):** Educational blockchain simulation with BIP39 seed phrases, ECDSA key derivation, and Proof-of-Work mining.
+- **Journal:** "AI and IoT in the Healthcare Environment: Behavioral Impacts on Patients and Clinicians in Asian and African Contexts," *Environment-Behaviour Proceedings Journal*, 2026 (first author)
+- **Preprints:** the Emotional State Engine for emotion-conditioned conversational AI, LOGOSCOPE for CPU-only logo detection, Yin-AI (the paper behind Giscard AI), and others on ResearchGate
+- **Thesis:** hybrid machine learning for imbalanced credit card fraud detection, Kyungdong University
 
-#### Web Tools and Utilities
-- **[ZePdf](https://zepdf.netlify.app/):** Browser-based PDF toolkit for merging, splitting, and converting documents. PDF operations run entirely client-side for privacy.
-- **[Ze Video Downloader](https://ze-video-downloader.streamlit.app/):** Media downloader supporting YouTube, TikTok, Instagram, and more. Format selection and audio extraction via yt-dlp.
-- **[Ze Base Converter](https://ze-base.streamlit.app/):** Universal number base converter (Base 2 to 36) with floating-point precision and interactive quizzes.
-- **[Ze Matrix](https://ze-matrix.streamlit.app/):** Linear algebra tool with SVD, QR, LU decompositions, equation solver, and educational mode.
-- **[Quiz Assistant](https://zequiz.streamlit.app/):** Quiz platform with Admin, Editor, and User roles. Bulk upload, timed quizzes, and analytics export.
+[ResearchGate](https://www.researchgate.net/profile/Giscard-Shema-Nkindi) · [Google Scholar](https://scholar.google.com/citations?user=GNs66ZQAAAAJ)
 
-#### Games and Interactive Experiences
-- **[Amakarita](https://amakarita.netlify.app/):** Strategic card game (Player vs Computer) with a custom AI decision tree and unique elimination mechanics.
-- **[Memory Match Challenge](https://zememory.netlify.app/):** Cognitive recall game with 3D card flips, dynamic difficulty, and local leaderboard persistence.
-- **[Digital Detective: Scavenger Hunt](https://scavengerterminal.netlify.app/):** Terminal-based forensics game with CRT effects. Use Unix commands to uncover hidden evidence.
+---
 
-#### Graphics, Desktop and IoT
-- **[My Village V2](https://myville.netlify.app/):** OpenGL village simulation with day/night cycle, particle effects, and a WebGL 2.0 browser version.
-- **[Flight Reservation System](https://zeflight.netlify.app/):** Flight booking system with a modern web dashboard and original Python/Tkinter desktop app.
-- **[Smart Room IoT](https://smart-room-iot.streamlit.app/):** Real-time room monitoring and control with ESP32, MQTT, and a Streamlit dashboard.
-- **Ghost Animation:** Blender cloth-physics animation with dynamic lighting and atmospheric effects.
+### Featured projects
 
-*Full project list at [giscard.me/projects.html](https://giscard.me/projects.html)*
+#### AI and computer vision
+- **[Giscard AI](https://giscard-ai.netlify.app/)**: a multimodal assistant that searches the web, reads documents and images, answers in a natural voice, creates pictures and exports Word, PowerPoint and Excel files. Chat memory persists without an account. *TypeScript, React, Gemini, Groq, OpenRouter* · [code](https://github.com/shemaiscard/giscard-ai)
+- **Smart Scan and Solve (3S)**: an Android app that turns photos of study material into quizzes, with OCR error correction and support for several languages. *Kotlin, Google ML Kit, Gemini* · code on request
+- **[LogoScope](https://logoscope.streamlit.app/)**: logo detection that pairs ORB features with template matching so it runs on a CPU alone, plus filtering and histogram tools. *Python, OpenCV, Streamlit*
+- **[Face Analysis Pro](https://github.com/shemaiscard/Face-Analysis-pro)**: real-time age, gender and emotion estimation that keeps every frame on your own machine. *DeepFace, OpenCV, Streamlit*
+
+#### Security
+- **[Securina](https://securina.netlify.app/)**: AI-assisted investigation of ransomware incidents, where you trace attack vectors, manage evidence and build a timeline of the compromise. *React, TypeScript, Tailwind CSS*
+- **[Cipher Shield Suite](https://ciphershield.streamlit.app/)**: encrypts text and files with AES, ChaCha20, Twofish, Blowfish, 3DES or RSA, hashes passwords with Argon2 and asks for a CAPTCHA before any of it. *Python, PyCryptodome, Streamlit*
+- **[NMAP Scanning Tool](https://nmaptest.streamlit.app/)**: a teaching GUI for Nmap scans with a simulated SSH credential audit. *Python, Nmap, Paramiko* · [code](https://github.com/shemaiscard/NMAP)
+- **[Digital Wallet Simulator](https://digital-wallet.streamlit.app/)**: BIP39 seed phrases, ECDSA (secp256k1) keys, proof-of-work mining and a persistent ledger. *Python, Streamlit* · [code](https://github.com/shemaiscard/digital-wallet-sim)
+
+#### Free web tools
+- **[ZePDF](https://zepdf.netlify.app/)**: merges, splits and compresses PDFs in the browser, so your files never leave your device. *JavaScript, PDF.js* · [code](https://github.com/shemaiscard/Ze-Pdf)
+- **[Ze Video Downloader](https://ze-video-downloader.streamlit.app/)**: saves video and audio from YouTube, TikTok and Instagram, with format and quality choices. *Python, yt-dlp, FFmpeg*
+- **[Ze Matrix](https://ze-matrix.streamlit.app/)**: a linear algebra workbench with an equation solver, SVD and QR, and a teaching mode that shows each step. *NumPy, SciPy, Streamlit* · [code](https://github.com/shemaiscard/ze-matrix)
+- **[Ze Base Converter](https://ze-base.streamlit.app/)**: converts numbers between any bases from 2 to 36, fractions included, with practice quizzes. *Python, Streamlit* · [code](https://github.com/shemaiscard/ZE-BASE-Number-Base-Converter)
+- **[Quiz Assistant](https://zequiz.streamlit.app/)**: a quiz platform with admin, editor and user roles, bulk upload, timed quizzes and analytics export. *Python, SQLite, Plotly*
+
+#### IoT and hardware
+- **[Smart Room IoT](https://smart-room-iot.streamlit.app/)**: room monitoring and remote control, with the ESP32 and the dashboard talking over MQTT. *ESP32, MQTT, Streamlit* · [code](https://github.com/shemaiscard/smart-room-iot)
+- **[Zarduino Car Controller](https://zarduino.netlify.app/)**: drives an Arduino car from the browser over Bluetooth Low Energy with a D-pad, a keyboard or an Xbox controller. *Web Bluetooth, ESP32, Arduino* · [code](https://github.com/shemaiscard/Zarduino-Car-Controller)
+
+#### Games and graphics
+- **[Amakarita](https://amakarita.netlify.app/)**: a card game against a computer opponent that plays from a custom decision tree. *JavaScript* · [code](https://github.com/shemaiscard/amakarita)
+- **[Memory Match Challenge](https://zememory.netlify.app/)**: a memory game with 3D card flips, difficulty levels and a local leaderboard. *JavaScript* · [code](https://github.com/shemaiscard/Memory-Game)
+- **[Digital Detective](https://scavengerterminal.netlify.app/)**: a forensics game in a CRT-style terminal, where Unix commands turn up hidden evidence. *JavaScript* · [code](https://github.com/shemaiscard/Digital-Detective)
+- **[My Village V2](https://myville.netlify.app/)**: an OpenGL village with a day and night cycle and particle effects, plus a WebGL 2.0 version for the browser. *C++, OpenGL, WebGL* · [code](https://github.com/shemaiscard/my-village-v2)
+- **[Ghost Animation](https://github.com/shemaiscard/Ghost-Animation-using-Blender)**: a fourteen-second Blender cloth-simulation short. The ghost is only fabric moving over hidden colliders. *Blender, Python*
+
+All 26 projects are at [giscard.me/projects.html](https://giscard.me/projects.html).
 
 ---
 
 ### Connect
 
 <p align="left">
+  <a href="https://giscard.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="mailto:shemagiscard2020@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/giscard1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://giscard.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://www.researchgate.net/profile/Giscard-Shema-Nkindi" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=GNs66ZQAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
   <a href="https://share.streamlit.io/user/shemaiscard" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   </a>
 </p>
