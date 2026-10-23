@@ -62,20 +62,20 @@ Most of my research so far is in affective computing: multimodal emotion recogni
 - **[Face Analysis Pro](https://github.com/shemaiscard/Face-Analysis-pro)**: real-time age, gender and emotion estimation that keeps every frame on your own machine. *DeepFace, OpenCV, Streamlit*
 
 #### Security
-- **[Securina](https://securina.netlify.app/)**: AI-assisted investigation of ransomware incidents, where you trace attack vectors, manage evidence and build a timeline of the compromise. *React, TypeScript, Tailwind CSS*
-- **[Cipher Shield Suite](https://ciphershield.streamlit.app/)**: encrypts text and files with AES, ChaCha20, Twofish, Blowfish, 3DES or RSA, hashes passwords with Argon2 and asks for a CAPTCHA before any of it. *Python, PyCryptodome, Streamlit*
+- **[Securina](https://securina.netlify.app/)**: a local agent that detects ransomware-like activity in shared folders, alerts the responsible administrator and contains it, plus a console that answers investigation questions only from the incident's own logs. *Python, React, TypeScript, Tailwind CSS*
+- **[Cipher Shield Suite](https://ciphershield.streamlit.app/)**: encrypts text and files with AES-GCM, ChaCha20, Blowfish, 3DES or RSA, hashes passwords with Argon2 and asks for a CAPTCHA before any of it. *Python, PyCryptodome, Streamlit*
 - **[NMAP Scanning Tool](https://nmaptest.streamlit.app/)**: a teaching GUI for Nmap scans with a simulated SSH credential audit. *Python, Nmap, Paramiko* · [code](https://github.com/shemaiscard/NMAP)
-- **[Digital Wallet Simulator](https://digital-wallet.streamlit.app/)**: BIP39 seed phrases, ECDSA (secp256k1) keys, proof-of-work mining and a persistent ledger. *Python, Streamlit* · [code](https://github.com/shemaiscard/digital-wallet-sim)
+- **[Digital Wallet Simulator](https://digital-wallet.streamlit.app/)**: sign in with a six-word passphrase, keep keys encrypted, restore a wallet from its 12-word recovery phrase, and send signed transfers recorded on a ledger anyone can verify. *Python, Streamlit, Firestore* · [code](https://github.com/shemaiscard/digital-wallet-sim)
 
 #### Free web tools
-- **[ZePDF](https://zepdf.netlify.app/)**: merges, splits and compresses PDFs in the browser, so your files never leave your device. *JavaScript, PDF.js* · [code](https://github.com/shemaiscard/Ze-Pdf)
+- **[ZePDF](https://zepdf.netlify.app/)**: converts documents between 20+ formats and merges or splits PDFs; merging and splitting run in your browser, so those files never leave your device. *JavaScript, pdf-lib* · [code](https://github.com/shemaiscard/Ze-Pdf)
 - **[Ze Video Downloader](https://ze-video-downloader.streamlit.app/)**: saves video and audio from YouTube, TikTok and Instagram, with format and quality choices. *Python, yt-dlp, FFmpeg*
 - **[Ze Matrix](https://ze-matrix.streamlit.app/)**: a linear algebra workbench with an equation solver, SVD and QR, and a teaching mode that shows each step. *NumPy, SciPy, Streamlit* · [code](https://github.com/shemaiscard/ze-matrix)
 - **[Ze Base Converter](https://ze-base.streamlit.app/)**: converts numbers between any bases from 2 to 36, fractions included, with practice quizzes. *Python, Streamlit* · [code](https://github.com/shemaiscard/ZE-BASE-Number-Base-Converter)
 - **[Quiz Assistant](https://zequiz.streamlit.app/)**: a quiz platform with admin, editor and user roles, bulk upload, timed quizzes and analytics export. *Python, SQLite, Plotly*
 
 #### IoT and hardware
-- **[Smart Room IoT](https://smart-room-iot.streamlit.app/)**: room monitoring and remote control, with the ESP32 and the dashboard talking over MQTT. *ESP32, MQTT, Streamlit* · [code](https://github.com/shemaiscard/smart-room-iot)
+- **[Smart Room IoT](https://smart-room-iot.streamlit.app/)**: room monitoring and remote control, with a Wemos D1 (ESP8266) and the dashboard talking over MQTT. *Wemos D1, MQTT, Streamlit* · [code](https://github.com/shemaiscard/smart-room-iot)
 - **[Zarduino Car Controller](https://zarduino.netlify.app/)**: drives an Arduino car from the browser over Bluetooth Low Energy with a D-pad, a keyboard or an Xbox controller. *Web Bluetooth, ESP32, Arduino* · [code](https://github.com/shemaiscard/Zarduino-Car-Controller)
 
 #### Games and graphics
