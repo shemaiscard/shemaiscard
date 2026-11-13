@@ -77,7 +77,7 @@ Most of my research so far is in affective computing: multimodal emotion recogni
 - **[Ze Video Downloader](https://ze-video-downloader.streamlit.app/)**: saves video and audio from YouTube, TikTok and Instagram, with format and quality choices. *Python, yt-dlp, FFmpeg*
 - **[Ze Matrix](https://ze-matrix.streamlit.app/)**: a linear algebra workbench for matrices up to 8x8 with fractions, an equation solver, SVD and QR, step-by-step solutions and quizzes with a new question each time. *NumPy, SciPy, Streamlit* · [code](https://github.com/shemaiscard/ze-matrix)
 - **[Ze Base Converter](https://ze-base.streamlit.app/)**: converts numbers between any bases from 2 to 36, fractions included, with practice quizzes. *Python, Streamlit* · [code](https://github.com/shemaiscard/ZE-BASE-Number-Base-Converter)
-- **[Quiz Assistant](https://zequiz.streamlit.app/)**: a quiz platform with admin, editor and user roles, bulk upload, timed quizzes and analytics export. *Python, SQLite, Plotly*
+- **[Quiz Assistant](https://zequiz.streamlit.app/)**: a quiz platform with admin, editor and user roles, bulk upload, timed quizzes and analytics export. *Python, Firebase, Plotly* · code on request
 - **[Text Autocomplete](https://github.com/shemaiscard/Text-Autocomplete-System)**: a desktop word-completion app over 677,224 English words. A ranked trie answers each prefix in about half a microsecond, typos fall back to a Levenshtein search, and the engine also has a Rust port. *Python, PyQt6, Rust*
 
 #### IoT and hardware
