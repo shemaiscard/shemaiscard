@@ -9,7 +9,7 @@ Most of my research so far is in affective computing: multimodal emotion recogni
 - **Research:** electronic-nose sensing, olfactory datasets and contrastive learning
 - **Learning:** Rust and Tauri, to build small desktop apps with a web front end
 - **Building:** [Giscard AI](https://giscard-ai.netlify.app/), my multimodal assistant
-- **Setup:** Fedora Linux, and Docker containers on my lab PC
+- **Setup:** Fedora Linux
 - **Open to:** collaboration on sensing, affective computing and tools for students
 - **Away from the keyboard:** photography, travel and strategy games
 
